@@ -1,0 +1,14 @@
+name: ciat_gis
+channels:
+- conda-forge
+dependencies:
+- python=3.7
+- geopandas
+- jupyter
+- lxml
+- matplotlib
+- numpy
+- pandas
+- rasterio
+- scikit-learn
+- seaborn
